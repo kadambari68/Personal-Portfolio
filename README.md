@@ -1,7 +1,7 @@
 # Personal-Portfolio 
-A simple static website created using Html, Css, Javascript and Bootstrap to introduce myself virtually.
-You can check it out here https://earnest-rugelach-4cc81c.netlify.app/
-Feel free to fork the repository or dm me any errors you find.
+* A simple static website created using Html, Css, Javascript and Bootstrap to introduce myself virtually.
+You can check it out here https://kadambari68.github.io/Personal-Portfolio/
+* Feel free to fork the repository or dm me any errors you find.
 
 ![image](https://user-images.githubusercontent.com/112871361/212694208-ef662827-78e0-4640-88bd-f3aec867cfdc.png)
 
